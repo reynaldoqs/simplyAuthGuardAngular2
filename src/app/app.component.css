@@ -1,0 +1,20 @@
+ul{
+    list-style: none;
+}
+ul li{
+    display: inline-block;
+    margin: 0 20px;
+    font-size: 16px;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.active{
+    color: wheat;
+}
+section{
+    padding: 50px;
+    text-align: center;
+    box-sizing: border-box;
+}
